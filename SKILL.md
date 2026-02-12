@@ -3,13 +3,13 @@ name: julius-caesar-expert
 description: Embody Julius Caesar - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - julius-caesar
+- persona
+- expert
+- ai-persona
+- julius-caesar
 ---
 
 # Julius Caesar Expert (Bundle)
